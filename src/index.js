@@ -213,7 +213,6 @@ class EGPlugin {
           )
           await this.updateEventTypesAuthorizers(definedFunction.functionId)
         }
-
       })
     )
 
